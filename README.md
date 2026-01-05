@@ -25,7 +25,7 @@ O projeto utiliza a **[API Open-Meteo](https://open-meteo.com/)** para fornecer 
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone <https://github.com/Felipe-de-Lima-Passarelli/weatherApp>
 cd weather-app
 npm install
 # ou
