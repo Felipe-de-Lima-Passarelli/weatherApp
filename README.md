@@ -5,9 +5,7 @@ Este é um projeto **Next.js**: um aplicativo de previsão do tempo totalmente r
 O Weather App permite:
 
 - Buscar cidades e exibir a previsão do tempo atual.
-- Converter unidades de temperatura (Celsius e Fahrenheit).
 - Visualizar previsões detalhadas para os próximos dias.
-- Interface responsiva, funcionando bem em desktop e dispositivos móveis.
 
 O projeto utiliza a **[API Open-Meteo](https://open-meteo.com/)** para fornecer dados de clima em tempo real.
 
@@ -17,7 +15,7 @@ O projeto utiliza a **[API Open-Meteo](https://open-meteo.com/)** para fornecer 
 
 - [Next.js](https://nextjs.org)  
 - TypeScript  
-- CSS Modules / Styled Components (dependendo da implementação)  
+- Tailwind CSS
 - Open-Meteo API  
 
 ---
