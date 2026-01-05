@@ -13,7 +13,7 @@ O projeto utiliza a **[API Open-Meteo](https://open-meteo.com/)** para fornecer 
 
 ## Tecnologias utilizadas
 
-- [Next.js](https://nextjs.org)  
+- Next.js
 - TypeScript  
 - Tailwind CSS
 - Open-Meteo API  
